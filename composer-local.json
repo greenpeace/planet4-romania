@@ -3,7 +3,8 @@
   "description": "Greenpeace P4 Romania",
   "license": "MIT",
   "require": {
-    "greenpeace/planet4-child-theme-romania": "dev-main"
+    "greenpeace/planet4-child-theme-romania": "dev-main",
+    "plugins/gravityformsakismet": "*"
   },
   "scripts": {
     "core:language": "wp language core install ro_RO;wp language core activate ro_RO",
